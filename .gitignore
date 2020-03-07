@@ -1,0 +1,4 @@
+composer.lock
+.serverless
+vendor
+.DS_Store
